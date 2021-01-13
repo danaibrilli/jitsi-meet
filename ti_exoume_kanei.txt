@@ -1,1 +1,4 @@
 1) to doc elege malakies
+2) sth react exei to kalo prama
+3) sth css exei ligotero kalo prama
+4) jekinhsame na blepoumt to API kai na katalabainoume to external api.js
